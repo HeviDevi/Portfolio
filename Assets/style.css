@@ -1,0 +1,29 @@
+header {
+    background-color: #dc5e0e;
+    text-align: center; 
+}
+
+h1 {
+    color: bisque; 
+    margin: 0; 
+    font-size: 2em; 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    text-align: center; 
+}
+
+ul li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+body {
+    background-color: bisque; 
+    font-family: 'Segoe UI', Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    color: #333; 
+}
